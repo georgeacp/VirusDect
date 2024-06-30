@@ -1,0 +1,28 @@
+/* src/components/Report.css */
+.report-container {
+    background-color: #a83232;
+    /* Color de fondo del contenedor del reporte */
+    color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    padding: 40px;
+    max-width: 600px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.loader-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    /* Ajustar el tamaño de la animación según sea necesario */
+}
+
+h2 {
+    margin-bottom: 20px;
+}
