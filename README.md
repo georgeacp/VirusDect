@@ -7,7 +7,7 @@ Esta es una aplicación diseñada para analizar archivos utilizando la API de Vi
 Para utilizar mi proyecto utiliza los siguiente comandos:
 
 ```bash
-git clone https://github.com/tu-usuario/VirusDect.git
+git clone https://github.com/georgeacp/VirusDect.git
 cd VirusDect
 npm install
 ```

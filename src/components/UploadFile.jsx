@@ -36,7 +36,7 @@ const UploadFile = ({ onScanComplete }) => {
 
   return (
     <div className="upload-container">
-      <h1>VIRUSTOTAL</h1>
+      <h1>VIRUSDETEC</h1>
       <p>Analiza archivos sospechosos para detectar malware y otras amenazas.</p>
       <div className="upload-section">
         <input type="file" id="file-input" onChange={handleFileChange} />
