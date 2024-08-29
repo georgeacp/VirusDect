@@ -10,10 +10,11 @@ Para utilizar mi proyecto utiliza los siguiente comandos:
 git clone https://github.com/georgeacp/VirusDect.git
 cd VirusDect
 npm install
+code .
 ```
-Antes de intentar lanzarlo debes reemplazar en UploadFile y Report:
+Antes de intentar lanzarlo debes reemplazar en UploadFile.jsx y Report.jsx:
 ```bash
-'x-apikey': 'tu-clave-api' // Reemplaza con tu clave API
+'x-apikey': 'tu-clave-api' // Reemplaza con tu clave API de virus total
 ```
 Por ultimo utiliza 
 ```bash
