@@ -9,7 +9,7 @@ Para utilizar mi proyecto utiliza los siguiente comandos:
 ```bash
 git clone https://github.com/georgeacp/VirusDect.git
 cd VirusDect
-npm install
+npm install // para instalar las dependencias
 code .
 ```
 Antes de intentar lanzarlo debes reemplazar en UploadFile.jsx y Report.jsx:
